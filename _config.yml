@@ -1,6 +1,13 @@
 theme: jekyll-theme-minimal
-title: Pagina cayetano 
+title: Pagina prueba 
 description: En esta pagina muestro mis aficciones y hobbies.
+ahutor: Cayetano 
 permalink: pretty
 exclude:
   - README.md
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/Cayemelano"
+  - name: "Twitter"
+    url: "https://instagram.com/Cayemelano"
+
